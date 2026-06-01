@@ -30,9 +30,10 @@ To write a Python program that sorts a dictionary's:
 ---
 
 ## 🧪Program
-Add Code here
+dict = {'b':1,'e':27,'c':7,'a':3,'d':15}
 
 ## Sample Output
+<img width="1918" height="842" alt="image" src="https://github.com/user-attachments/assets/db076380-f886-4897-bf32-bfdfbbb0e3b4" />
 
 ## Result
-
+Thus, The To write a Python program that sorts a dictionary according to its Keys in alphabetical order and to its Values in alphabetical order was executed successfully.
